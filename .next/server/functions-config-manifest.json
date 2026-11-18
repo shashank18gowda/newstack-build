@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/auth/update-license":{},"/files_user_profile/[filename]":{},"/lms-client/contact":{},"/lms-client/about":{},"/lms-client/faq":{},"/lms-client/resources":{},"/lms-client/notices":{},"/lms-client":{},"/lms-client/profile":{},"/lms-client/courses":{},"/lms-client/forum":{},"/lms-client/surveys":{},"/lms-client/surveys/[surveyPublishId]/take":{}}}

@@ -1,0 +1,40 @@
+{
+  "name": "k-nest-lms-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "clsx": "^2.1.1",
+    "dompurify": "^3.4.14",
+    "exceljs": "^4.4.0",
+    "font-awesome": "^4.7.0",
+    "html-to-image": "^1.11.11",
+    "jszip": "3.10.1",
+    "mammoth": "^1.12.0",
+    "next": "^14.2.29",
+    "nextjs-toploader": "^3.9.17",
+    "pdfjs-dist": "^4.10.38",
+    "pptx-preview": "1.0.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "recharts": "^3.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.29",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}

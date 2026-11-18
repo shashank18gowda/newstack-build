@@ -1,0 +1,59 @@
+{
+  "app\\lms-admin\\courses\\[id]\\lessons\\[lessonId]\\content\\[contentDtlId]\\view\\page.tsx -> mammoth": {
+    "id": 25904,
+    "files": [
+      "static/chunks/7635.3265c4b9d3c84090.js",
+      "static/chunks/5904.4ff15c9a4b1de8f5.js"
+    ]
+  },
+  "components\\player\\ContentViewer.tsx -> mammoth/mammoth.browser.js": {
+    "id": 45481,
+    "files": [
+      "static/chunks/38eea3d6.c45f880457751967.js"
+    ]
+  },
+  "components\\player\\PdfViewer.tsx -> pdfjs-dist": {
+    "id": 27781,
+    "files": [
+      "static/chunks/9b0008ae.aa7844a6598edbb8.js"
+    ]
+  },
+  "components\\player\\SlideDeckViewer.tsx -> jszip": {
+    "id": 57635,
+    "files": [
+      "static/chunks/7635.3265c4b9d3c84090.js"
+    ]
+  },
+  "components\\player\\SlideDeckViewer.tsx -> pptx-preview": {
+    "id": 3306,
+    "files": [
+      "static/chunks/e37a0b60.21df85b902cf6c8c.js",
+      "static/chunks/7635.3265c4b9d3c84090.js",
+      "static/chunks/3306.0ff0838638b44158.js"
+    ]
+  },
+  "components\\resources\\ResourceViewerModal.tsx -> mammoth/mammoth.browser.js": {
+    "id": 45481,
+    "files": [
+      "static/chunks/38eea3d6.c45f880457751967.js"
+    ]
+  },
+  "utils\\analyticsWorkbook.ts -> exceljs": {
+    "id": 97853,
+    "files": [
+      "static/chunks/6edf0643.4f21d359badccdee.js"
+    ]
+  },
+  "utils\\analyticsWorkbook.ts -> html-to-image": {
+    "id": 73732,
+    "files": [
+      "static/chunks/3732.1d9ccc374a8f2fbf.js"
+    ]
+  },
+  "utils\\certificatePdfCache.ts -> pdfjs-dist": {
+    "id": 27781,
+    "files": [
+      "static/chunks/9b0008ae.aa7844a6598edbb8.js"
+    ]
+  }
+}
